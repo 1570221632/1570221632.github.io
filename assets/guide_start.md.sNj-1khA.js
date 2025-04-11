@@ -1,0 +1,6 @@
+import{aw as s,A as p,aP as n,z as t}from"./chunks/framework.D6uUnxnV.js";const u=JSON.parse('{"title":"完整引入","description":"","frontmatter":{},"headers":[],"relativePath":"guide/start.md","filePath":"guide/start.md","lastUpdated":1736344548000}'),e={name:"guide/start.md"};function i(o,a,r,l,c,d){return t(),p("div",null,a[0]||(a[0]=[n(`<h1 id="完整引入" tabindex="-1">完整引入 <a class="header-anchor" href="#完整引入" aria-label="Permalink to &quot;完整引入&quot;">​</a></h1><p>如果你对打包后的文件大小不是很在乎，那么使用完整导入会更方便。</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>import { createApp } from &#39;vue&#39;</span></span>
+<span class="line"><span>import { install } from &quot;ajmer-components&quot;;</span></span>
+<span class="line"><span>import App from &#39;./App.vue&#39;</span></span>
+<span class="line"><span>const app = createApp(App)</span></span>
+<span class="line"><span>install(app);</span></span>
+<span class="line"><span>app.mount(&#39;#app&#39;)</span></span></code></pre></div>`,3)]))}const h=s(e,[["render",i]]);export{u as __pageData,h as default};
