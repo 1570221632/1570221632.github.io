@@ -1,0 +1,22 @@
+import{ax as E,ah as n,z as l,A as h,R as t,B as s,O as e,I as a}from"./chunks/framework.DwRXKiMT.js";const d={};function o(k,r){const i=n("AjmerTypeit");return l(),h("div",null,[t(i,{options:{strings:"文字动画组件",cursor:!1,speed:100}})])}const m=E(d,[["render",o]]),c=JSON.parse('{"title":"AjmerTypeit","description":"","frontmatter":{},"headers":[],"relativePath":"components/AjmerTypeit/src/index.md","filePath":"components/AjmerTypeit/src/index.md","lastUpdated":1745399062000}'),g={name:"components/AjmerTypeit/src/index.md"},u=Object.assign(g,{setup(k){return(r,i)=>{const p=n("demo");return l(),h("div",null,[i[1]||(i[1]=s("h1",{id:"ajmertypeit",tabindex:"-1"},[e("AjmerTypeit "),s("a",{class:"header-anchor",href:"#ajmertypeit","aria-label":'Permalink to "AjmerTypeit"'},"​")],-1)),i[2]||(i[2]=s("blockquote",null,[s("p",null,"文字动画组件")],-1)),i[3]||(i[3]=s("p",null,"组件路径: ajmer-components/components/AjmerTypeit",-1)),i[4]||(i[4]=s("p",null,"作者: zj",-1)),i[5]||(i[5]=s("hr",null,null,-1)),i[6]||(i[6]=s("h2",{id:"预览效果",tabindex:"-1"},[e("预览效果 "),s("a",{class:"header-anchor",href:"#预览效果","aria-label":'Permalink to "预览效果"'},"​")],-1)),t(p,{customClass:"demoblock-custom",sourceCode:`<template>
+  <div>
+    <AjmerTypeit
+      :options="{
+        strings: '文字动画组件',
+        cursor: false,
+        speed: 100,
+      }"
+    />
+  </div>
+</template>
+`,options:'{"customClass":"demoblock-custom"}'},{highlight:a(()=>i[0]||(i[0]=[s("div",{class:"language-vue vp-adaptive-theme"},[s("span",{class:"lang"},"vue"),s("pre",{class:"shiki shiki-themes github-light github-dark vp-code",tabindex:"0","v-pre":""},[s("code",null,[s("span",{class:"line"},[s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},"<"),s("span",{style:{"--shiki-light":"#22863A","--shiki-dark":"#85E89D"}},"template"),s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},">")]),e(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},"  <"),s("span",{style:{"--shiki-light":"#22863A","--shiki-dark":"#85E89D"}},"div"),s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},">")]),e(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},"    <"),s("span",{style:{"--shiki-light":"#22863A","--shiki-dark":"#85E89D"}},"AjmerTypeit")]),e(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},"      :"),s("span",{style:{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"}},"options"),s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},"="),s("span",{style:{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"}},'"'),s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},"{")]),e(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},"        strings: "),s("span",{style:{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"}},"'文字动画组件'"),s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},",")]),e(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},"        cursor: "),s("span",{style:{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"}},"false"),s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},",")]),e(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},"        speed: "),s("span",{style:{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"}},"100"),s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},",")]),e(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},"      }"),s("span",{style:{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"}},'"')]),e(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},"    />")]),e(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},"  </"),s("span",{style:{"--shiki-light":"#22863A","--shiki-dark":"#85E89D"}},"div"),s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},">")]),e(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},"</"),s("span",{style:{"--shiki-light":"#22863A","--shiki-dark":"#85E89D"}},"template"),s("span",{style:{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"}},">")])])])],-1)])),default:a(()=>[t(m)]),_:1})])}}});export{c as __pageData,u as default};
